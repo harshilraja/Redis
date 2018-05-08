@@ -1,0 +1,7 @@
+com\concretepage\bean\Person.class
+com\concretepage\dao\FamilyDAO.class
+com\concretepage\dao\EmployeeDAO.class
+com\concretepage\config\RedisConfig.class
+com\concretepage\Main.class
+com\concretepage\dao\UserDAO.class
+com\concretepage\dao\FriendDAO.class
